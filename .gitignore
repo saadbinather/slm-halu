@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Datasets & Heavy Data Folders
+halueval_data/
+nq_data/
+*.json
+*.jsonl
+*.csv
+
+# Extracted Traces Directories
+movie_traces_train*/
+
+# Model Weights & Saved Checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# macOS & Editor Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
