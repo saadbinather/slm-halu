@@ -1,0 +1,47 @@
+{
+  "num_seeds": 5,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "warning": "Only 5 paired seeds are available. Seed-level significance testing has low resolution; interpret confidence intervals and effect sizes as exploratory robustness evidence.",
+  "epigraph_vs_mlp": {
+    "comparison": "EpiGraph - MLP",
+    "mean_difference": 0.003920303299185313,
+    "std_difference": 0.0072424572541039765,
+    "bootstrap_95_ci": [
+      -0.0011373719448253717,
+      0.010349278051141475
+    ],
+    "exact_sign_flip_p": 0.4375,
+    "cohens_dz": 0.5412946409816712,
+    "differences": [
+      0.007300153262886244,
+      -0.0009276437847866026,
+      0.015124626925869245,
+      4.0332338469006856e-05,
+      -0.00193595224651133
+    ]
+  },
+  "epigraph_vs_shuffled": {
+    "comparison": "EpiGraph - Shuffled GraphSAGE",
+    "mean_difference": 0.005469065096394265,
+    "std_difference": 0.0059356131136998015,
+    "bootstrap_95_ci": [
+      0.0004678551262401687,
+      0.009703960635637632
+    ],
+    "exact_sign_flip_p": 0.1875,
+    "cohens_dz": 0.9213985129474306,
+    "differences": [
+      -0.0034282487698636954,
+      0.012019036863757382,
+      0.0030652577236427447,
+      0.006896829878196398,
+      0.008792449786238499
+    ]
+  }
+}

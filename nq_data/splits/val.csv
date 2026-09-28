@@ -1,0 +1,399 @@
+sample_id,question,gold_answer,answers,split
+nq_001858,who started ww2 and how did it start,Nazi Germany,"[""Nazi Germany""]",val
+nq_001859,mark who went to golf majors in 1998,Mark O'Meara,"[""Mark O'Meara"", ""O'Meara""]",val
+nq_001860,when did the movie breakfast club come out,"February 15, 1985","[""February 15, 1985"", ""February 15, 1985"", ""1985""]",val
+nq_001861,who sings you can't get what you want,the Rolling Stones,"[""the Rolling Stones""]",val
+nq_001862,what's the dwarf's name in game of thrones,Tyrion Lannister,"[""Tyrion Lannister""]",val
+nq_001863,who enforces the charter of rights and freedoms,Supreme Court of Canada,"[""Supreme Court of Canada"", ""the courts"", ""courts"", ""The courts""]",val
+nq_001864,who is the founder of el pollo loco,Juan Francisco Ochoa,"[""Juan Francisco Ochoa""]",val
+nq_001865,who has the highest paid contract in the nba,Stephen Curry,"[""Stephen Curry""]",val
+nq_001866,what is the main use of the eiffel tower in modern times,visited paid monument,"[""visited paid monument"", ""paid monument""]",val
+nq_001867,when were the words under god added to the pledge,on Flag Day in 1954,"[""on Flag Day in 1954"", ""1954"", ""Flag Day in 1954""]",val
+nq_001868,when does jo come in grey's anatomy,season 9,"[""season 9"", ""2012"", ""July 2012""]",val
+nq_001869,where do the sharks play in san jose,the SAP Center,"[""the SAP Center"", ""SAP Center"", ""SAP Center at San Jose""]",val
+nq_001870,what is the meaning of gorakh dhanda in urdu,You are a Puzzle,"[""You are a Puzzle""]",val
+nq_001871,what is the setting of a dolls house,a Norwegian town circa 1879,"[""a Norwegian town circa 1879"", ""a Norwegian town""]",val
+nq_001872,who wrote the theme song for the winter olympics,Leo Arnaud,"[""Leo Arnaud""]",val
+nq_001873,what is the name of season 6 of american horror story,Roanoke,"[""Roanoke"", ""American Horror Story: Roanoke""]",val
+nq_001874,where was the 2015 rugby union world cup held,England,"[""England"", ""Wales""]",val
+nq_001875,how many senators are there in the us senate,100,"[""100"", ""100 members""]",val
+nq_001876,what is the population of keystone heights florida,"1,350","[""1,350"", ""1,461""]",val
+nq_001877,what time is it in alaska time zone,UTC−09:00,"[""UTC−09:00""]",val
+nq_001878,what was the main characteristic of post-world war ii american society,strong economic growth,"[""strong economic growth""]",val
+nq_001879,the winner of the best actor award in the 64th national film festival 2017,Akshay Kumar,"[""Akshay Kumar"", ""Manoj Joshi""]",val
+nq_001880,who played cory's older brother on boy meets world,Will Friedle,"[""Will Friedle""]",val
+nq_001881,who signed the largest on the declaration of independence,John Hancock,"[""John Hancock""]",val
+nq_001882,what is the inner core of the earth made from,some other elements,"[""some other elements"", ""iron–nickel alloy"", ""an iron–nickel alloy""]",val
+nq_001883,who supported states rights during the civil war,the Confederacy,"[""the Confederacy""]",val
+nq_001884,what album is sacrifice by elton john on,Sleeping with the Past.,"[""Sleeping with the Past."", ""Sleeping with the Past""]",val
+nq_001885,who wrote cant get you out of my head lyrics,Cathy Dennis and Rob Davis,"[""Cathy Dennis and Rob Davis"", ""Rob Davis"", ""Cathy Dennis""]",val
+nq_001886,when did the us stop trading with japan,1939,"[""1939"", ""1940""]",val
+nq_001887,who sang the theme song for the man with the golden gun,Lulu,"[""Lulu""]",val
+nq_001888,what's the difference between salisbury steak and hamburger steak,ingredients,"[""ingredients""]",val
+nq_001889,who has given the theory of unbalanced economic growth,Hirschman,"[""Hirschman""]",val
+nq_001890,when was the last time mount ruapehu erupted,25 September 2007,"[""25 September 2007""]",val
+nq_001891,ganglion axons forming the optic nerve run to the,pretectal nucleus,"[""pretectal nucleus"", ""suprachiasmatic nucleus"", ""photoreceptor cells"", ""lateral geniculate nucleus"", ""optic chiasma""]",val
+nq_001892,what word is used to describe knowledge about the universe and method of obtaining that knowledge,epistemology,"[""epistemology"", ""Empiricism""]",val
+nq_001893,who become ceo of wipro company in 2016,Abid Ali Neemuchwala,"[""Abid Ali Neemuchwala""]",val
+nq_001894,who is known as father of green revolution in india,Mankombu Sambasivan Swaminathan,"[""Mankombu Sambasivan Swaminathan""]",val
+nq_001895,which british city is farthest from the sea,Coton in the Elms,"[""Coton in the Elms""]",val
+nq_001896,when is the last time the new york giants won the super bowl,(2011,"[""(2011""]",val
+nq_001897,how many episodes are there in dragon ball z,291 episodes,"[""291 episodes"", ""291""]",val
+nq_001898,who sings gimme shelter with mick jagger,Merry Clayton,"[""Merry Clayton""]",val
+nq_001899,who sings the rap in baby by justin bieber,Ludacris,"[""Ludacris""]",val
+nq_001900,when did the red guards start and end,1966 and 1967,"[""1966 and 1967"", ""in 1966 and 1967""]",val
+nq_001901,who wrote put your hand in the hand of the man who stilled the water,Gene MacLellan,"[""Gene MacLellan""]",val
+nq_001902,what year did the price is right first air,"November 26, 1956","[""November 26, 1956"", ""1956""]",val
+nq_001903,who wrote the book the origin of species,Charles Darwin,"[""Charles Darwin""]",val
+nq_001904,when did clifford the big red dog first air on tv,"September 4, 2000","[""September 4, 2000""]",val
+nq_001905,where is the country music hall of fame located,"Nashville, Tennessee","[""Nashville, Tennessee""]",val
+nq_001906,what information is displayed in clear text from the ftp header,all transmissions,"[""all transmissions""]",val
+nq_001907,who sang oh annie i not your daddy,Kid Creole and the Coconuts,"[""Kid Creole and the Coconuts"", ""Kid Creole & The Coconuts""]",val
+nq_001908,where is this years army navy game played,Lincoln Financial Field in Philadelphia,"[""Lincoln Financial Field in Philadelphia"", ""Lincoln Financial Field""]",val
+nq_001909,when did the united kingdom entered world war 2,1939,"[""1939""]",val
+nq_001910,who wrote the song after you've gone,Turner Layton,"[""Turner Layton"", ""Henry Creamer"", ""lyrics by Henry Creamer"", ""composed by Turner Layton""]",val
+nq_001911,who played the face in the a team,Dirk Benedict,"[""Dirk Benedict""]",val
+nq_001912,what episode does lori die on the walking dead,"""Killer Within""","[""\""Killer Within\"""", ""Killer Within""]",val
+nq_001913,where will be the next olympics be held,Tokyo,"[""Tokyo""]",val
+nq_001914,who ordered the forbidden city to be built,Zhu Di,"[""Zhu Di""]",val
+nq_001915,what kind of plate boundary is nepal on,orogenic belt,"[""orogenic belt""]",val
+nq_001916,what category was hurricane charley when it hit florida,4,"[""4"", ""Category 4"", ""Category 4""]",val
+nq_001917,towns on the border of texas and oklahoma,Texhoma,"[""Texhoma""]",val
+nq_001918,when did world war 2 end in the pacific,14 and 15 August 1945,"[""14 and 15 August 1945"", ""September 2, 1945""]",val
+nq_001919,who played anna in once upon a time,Elizabeth Dean Lail,"[""Elizabeth Dean Lail""]",val
+nq_001920,who stole the mona lisa from the louvre in 1911,Vincenzo Peruggia,"[""Vincenzo Peruggia""]",val
+nq_001921,how long is the bridge between new brunswick and prince edward island,12.9-kilometre,"[""12.9-kilometre""]",val
+nq_001922,who produced a change is gonna come,Hugo & Luigi,"[""Hugo & Luigi""]",val
+nq_001923,what role does the president play in foreign affairs,negotiates treaties with foreign nations,"[""negotiates treaties with foreign nations""]",val
+nq_001924,when is the met office leaving the bbc,31 March 2018,"[""31 March 2018""]",val
+nq_001925,what is the name of the skin between your nostrils,the nasal septum,"[""the nasal septum"", ""septum""]",val
+nq_001926,what does a yellow 35 mph sign mean,advisory speed limits,"[""advisory speed limits""]",val
+nq_001927,who is command sergeant major of the army,Daniel A. Dailey,"[""Daniel A. Dailey""]",val
+nq_001928,what are the ranks in the us navy,E-8s senior chief petty officer,"[""E-8s senior chief petty officer"", ""E-9s master chief petty officer""]",val
+nq_001929,when does monday night raw come on hulu,the following day,"[""the following day""]",val
+nq_001930,what was the first capital city of australia,New South Wales,"[""New South Wales"", ""Melbourne"", ""Sydney""]",val
+nq_001931,where does the un security council get troops for military actions,member states of the UN,"[""member states of the UN"", ""member states""]",val
+nq_001932,where did the jungle book story come from,English author Rudyard Kipling,"[""English author Rudyard Kipling""]",val
+nq_001933,when did they start 3 pointers in basketball,1961,"[""1961"", ""1945""]",val
+nq_001934,what was the actual year that the movie regarding the titans took place,1971,"[""1971""]",val
+nq_001935,who plays spock in the new star trek movies,Zachary John Quinto,"[""Zachary John Quinto""]",val
+nq_001936,what is cain and abel software used for,password recovery,"[""password recovery""]",val
+nq_001937,where are most nutrients absorbed in the human digestive tract,The small intestine,"[""The small intestine"", ""small intestine""]",val
+nq_001938,which president of the united states was a boy scout,Gerald Ford,"[""Gerald Ford"", ""President Gerald Ford""]",val
+nq_001939,how old is the actress who plays phyllis on y&r,Gina Tognoni,"[""Gina Tognoni"", ""age 44""]",val
+nq_001940,who sings i want to be a rockstar,Nickelback,"[""Nickelback"", ""Canadian rock band Nickelback"", ""Billy Gibbons of ZZ Top""]",val
+nq_001941,who won every men's biathlon event in the 2002 winter olympics,Norway,"[""Norway"", ""Ole Einar Bjørndalen""]",val
+nq_001942,the roman name for a liberal arts education is known as,liberalia studia,"[""liberalia studia"", ""artes liberales""]",val
+nq_001943,where do they film take me out fernando's,Club Bijou on Chapel Street,"[""Club Bijou on Chapel Street""]",val
+nq_001944,days of our lives cast doug and julie,Susan Seaforth Hayes,"[""Susan Seaforth Hayes"", ""Susan Seaforth"", ""Bill Hayes""]",val
+nq_001945,india participated olympic hockey for the first time,1927,"[""1927"", ""1928""]",val
+nq_001946,most runs ever scored in a mlb inning,18,"[""18""]",val
+nq_001947,who votes in the speaker of the house,The House of Representatives,"[""The House of Representatives""]",val
+nq_001948,who inaugurated 'world teachers' day',UNESCO,"[""UNESCO"", ""ILO""]",val
+nq_001949,who is the leader of the ontario pc party,Patrick Brown,"[""Patrick Brown"", ""Patrick Walter Brown MPP"", ""Patrick Walter Brown""]",val
+nq_001950,what type of boundary was the mexico earthquake,a subduction zone,"[""a subduction zone""]",val
+nq_001951,who's the guy in call me maybe,Holden Nowell,"[""Holden Nowell""]",val
+nq_001952,who is dylan's father in bates motel,"Norma's brother, Caleb","[""Norma's brother, Caleb""]",val
+nq_001953,the most common form of megalithic architecture in europe is,the portal tomb,"[""the portal tomb"", ""portal tomb""]",val
+nq_001954,where does the journey start in the canterbury tales,London,"[""London""]",val
+nq_001955,who wrote the guitar solo in beat it,Eddie Van Halen,"[""Eddie Van Halen""]",val
+nq_001956,who sings so come and dance with me jai ho,Mahalaxmi Iyer,"[""Mahalaxmi Iyer"", ""Vijay Prakash"", ""Tanvi Shah"", ""Sukhvinder Singh""]",val
+nq_001957,who sings the theme song for the tv show cops,Inner Circle,"[""Inner Circle"", ""Jamaican reggae band Inner Circle""]",val
+nq_001958,what is the definition of the name thomas,"""twin""","[""\""twin\"""", ""twin""]",val
+nq_001959,where are more than half your bones located,the appendicular skeleton,"[""the appendicular skeleton""]",val
+nq_001960,the cuban revolt against spain was led by,Máximo Gomez,"[""Máximo Gomez"", ""Antonio Maceo"", ""José Martí""]",val
+nq_001961,who sold out jesus for 30 pieces of silver,Judas Iscariot,"[""Judas Iscariot""]",val
+nq_001962,who sang a whiter shade of pale first,Procol Harum,"[""Procol Harum"", ""British rock band Procol Harum""]",val
+nq_001963,the joint between a coxal bone of the pelvis and the sacrum,sacroiliac joint,"[""sacroiliac joint""]",val
+nq_001964,what size engine does a 2005 honda civic have,1169 cc,"[""1169 cc""]",val
+nq_001965,who said if a tree falls in the woods and nobody hears it,Philosopher George Berkeley,"[""Philosopher George Berkeley"", ""Charles Riborg Mann"", ""George Ransom Twiss""]",val
+nq_001966,where did the northernmost land action of the american civil war occur,"St. Albans, Vermont","[""St. Albans, Vermont""]",val
+nq_001967,who wrote the song photograph by ringo starr,George Harrison,"[""George Harrison"", ""Ringo Starr"", ""Richard Starkey""]",val
+nq_001968,what is the job of justice of the peace,dispense summary justice,"[""dispense summary justice""]",val
+nq_001969,who plays lady talisa in game of thrones,Oona Castilla Chaplin,"[""Oona Castilla Chaplin"", ""Oona Chaplin""]",val
+nq_001970,how many customers does edf have in the uk,5.7 million customer accounts,"[""5.7 million customer accounts"", ""5.7 million""]",val
+nq_001971,who is the first president to be impeached,Andrew Johnson,"[""Andrew Johnson"", ""Johnson""]",val
+nq_001972,who made the poppies at tower of london,Paul Cummins,"[""Paul Cummins"", ""Tom Piper"", ""stage designer Tom Piper""]",val
+nq_001973,who is next in line to inherit the british throne,"Charles, Prince of Wales","[""Charles, Prince of Wales""]",val
+nq_001974,where does the us launch space shuttles from,Florida,"[""Florida""]",val
+nq_001975,who sings tie a yellow ribbon around the old oak tree,Joyce Vincent Wilson,"[""Joyce Vincent Wilson"", ""Pamela Vincent"", ""Tony Orlando and Dawn""]",val
+nq_001976,what is a real world application of an atwood machine,An elevator with a counterbalance,"[""An elevator with a counterbalance""]",val
+nq_001977,who played mike stivic on all in the family,Rob Reiner,"[""Rob Reiner""]",val
+nq_001978,where does the movie mothers day take place,Atlanta,"[""Atlanta"", ""Atlanta, Georgia""]",val
+nq_001979,who played mark on the show the rifleman,John Ernest Crawford,"[""John Ernest Crawford""]",val
+nq_001980,who won the most medals in the 1924 winter olympics,Norway,"[""Norway""]",val
+nq_001981,who wrote the theme song for mission impossible,Lalo Schifrin,"[""Lalo Schifrin"", ""Argentine composer Lalo Schifrin""]",val
+nq_001982,where did huntington's disease get its name,the physician George Huntington,"[""the physician George Huntington""]",val
+nq_001983,what river flows through charleston west virginia’s capital,Kanawha River,"[""Kanawha River"", ""the Elk and Kanawha Rivers"", ""Kanawha"", ""Elk""]",val
+nq_001984,how many episodes are there in modern family,201,"[""201"", ""232""]",val
+nq_001985,who wrote lyrics for phantom of the opera,Charles Hart,"[""Charles Hart"", ""Charles Hart and Richard Stilgoe"", ""Richard Stilgoe""]",val
+nq_001986,who sings find out who your friends are with tracy lawrence,Kenny Chesney,"[""Kenny Chesney"", ""Tim McGraw and Kenny Chesney"", ""Tim McGraw""]",val
+nq_001987,how many house of representative do we have in nigeria,360,"[""360"", ""360 members""]",val
+nq_001988,who wrote the poem for whom the bell tolls,Ernest Hemingway,"[""Ernest Hemingway"", ""John Donne""]",val
+nq_001989,which is the lion's mane jellyfish's species within its genus,C. capillata,"[""C. capillata"", ""capillata"", ""Cyanea capillata""]",val
+nq_001990,who conducted the opening concert at carnegie hall,Pyotr Ilyich Tchaikovsky,"[""Pyotr Ilyich Tchaikovsky"", ""maestro Walter Damrosch"", ""Walter Damrosch""]",val
+nq_001991,animals that are active at dawn and dusk,Crepuscular,"[""Crepuscular"", ""crepuscular"", ""Crepuscular animals""]",val
+nq_001992,when does the team find out prentiss is alive,In the season seven premiere,"[""In the season seven premiere"", ""the season seven premiere""]",val
+nq_001993,where does dividends go on cash flow statement,the financing activities section,"[""the financing activities section""]",val
+nq_001994,who gave a speech to the democratic national convention in 1984,Mario Cuomo,"[""Mario Cuomo"", ""Jesse Jackson"", ""Rev. Jesse Jackson"", ""New York Governor Mario Cuomo"", ""Senator Gary Hart"", ""Gary Hart""]",val
+nq_001995,who sings the song i want to go outside in the rain,Milira,"[""Milira""]",val
+nq_001996,when does the black panther movie soundtrack come out,"February 9, 2018","[""February 9, 2018"", ""February 16, 2018""]",val
+nq_001997,who played lead guitar on 25 or 6 to 4,Terry Kath,"[""Terry Kath""]",val
+nq_001998,if there is a line that lies parallel to the horizon it is said to be,A vanishing point,"[""A vanishing point""]",val
+nq_001999,who is the cast of the new tomb raider movie,Alicia Vikander as Lara Croft,"[""Alicia Vikander as Lara Croft""]",val
+nq_002000,who starred in the film far from the madding crowd,Juno Temple,"[""Juno Temple"", ""Carey Mulligan"", ""Tom Sturridge"", ""Matthias Schoenaerts"", ""Michael Sheen""]",val
+nq_002001,where does puerto rico's power come from,Puerto Rico Electric Power Authority,"[""Puerto Rico Electric Power Authority""]",val
+nq_002002,who played the original steve mcgarrett on hawaii five-o,John Joseph Patrick Ryan,"[""John Joseph Patrick Ryan"", ""Jack Lord""]",val
+nq_002003,when did chicano studies become major studies programs on college campuses,By 1975,"[""By 1975"", ""1972""]",val
+nq_002004,what us state forms the western boundary of montana,Idaho,"[""Idaho""]",val
+nq_002005,what is the official symbol of the carnival of quebec,Bonhomme Carnaval,"[""Bonhomme Carnaval""]",val
+nq_002006,when did italy enter the second world war,10 June 1940,"[""10 June 1940""]",val
+nq_002007,what is the cross on a letter t called,arm,"[""arm"", ""crossbar""]",val
+nq_002008,who is the founder of google and when was it founded,1998,"[""1998"", ""Sergey Brin"", ""Larry Page"", ""Larry Page and Sergey Brin""]",val
+nq_002009,when did the subway open in new york,"October 27, 1904","[""October 27, 1904"", ""1904""]",val
+nq_002010,when did the lion king start on broadway,Broadway,"[""Broadway"", ""October 15, 1997"", ""July 8, 1997"", ""November 13, 1997""]",val
+nq_002011,which philosopher advocated the idea of return to nature,Bacon,"[""Bacon""]",val
+nq_002012,how long is a whale shark in meters,12.65 m,"[""12.65 m"", ""estimated at 9.7 m"", ""9.7 m""]",val
+nq_002013,band who had a hit with heart and soul crossword,British pop band T'Pau,"[""British pop band T'Pau"", ""T'Pau""]",val
+nq_002014,winner of the women's royal rumble match,Asuka,"[""Asuka""]",val
+nq_002015,who used the word physiology for the first time,Jean Fernel,"[""Jean Fernel""]",val
+nq_002016,where was the movie the glass castle filmed,"in Welch, West Virginia","[""in Welch, West Virginia"", ""Welch, West Virginia""]",val
+nq_002017,when do you get your white coat in pharmacy school,before the first year begins,"[""before the first year begins""]",val
+nq_002018,who played harley in harley davidson and the marlboro man,Mickey Rourke,"[""Mickey Rourke""]",val
+nq_002019,bible verse taking the lord's name in vain,Exodus 20:7,"[""Exodus 20:7""]",val
+nq_002020,when does elijah first appear in vampire diaries,Rose,"[""Rose"", ""\""Rose\"""", ""Season two""]",val
+nq_002021,who sang the song should have been a cowboy,Toby Keith,"[""Toby Keith""]",val
+nq_002022,who sang the song with reba does he love you,Linda Davis,"[""Linda Davis""]",val
+nq_002023,who wrote knock knock knocking on heavens door,Bob Dylan,"[""Bob Dylan""]",val
+nq_002024,who wrote ain't living long like this,Rodney Crowell,"[""Rodney Crowell""]",val
+nq_002025,who was the captain of the mayflower which brought the pilgrims to plymouth,Master Christopher Jones,"[""Master Christopher Jones"", ""Christopher Jones""]",val
+nq_002026,who commissioned the first christmas card in 1943,Sir Henry Cole,"[""Sir Henry Cole""]",val
+nq_002027,what is the name of the main artery which takes blood from the heart to the body,The aorta,"[""The aorta"", ""aorta""]",val
+nq_002028,when does a wrinkle in time come out in canada,"March 9, 2018","[""March 9, 2018""]",val
+nq_002029,when did korn's follow the leader come out,"August 18, 1998","[""August 18, 1998""]",val
+nq_002030,what is the largest bill in american money,$100,"[""$100""]",val
+nq_002031,where does sleeping freshmen never lie take place,J.P. Zenger High,"[""J.P. Zenger High""]",val
+nq_002032,which river separates the bronx in new york city from manhattan island,Harlem River,"[""Harlem River"", ""the Harlem River""]",val
+nq_002033,where did students for a democratic society start,"Ann Arbor, Michigan","[""Ann Arbor, Michigan""]",val
+nq_002034,how many pieces in a terry's chocolate orange,six,"[""six"", ""20""]",val
+nq_002035,who sings war don't let me down,American production duo The Chainsmokers,"[""American production duo The Chainsmokers"", ""vocals of American singer Daya""]",val
+nq_002036,when was the miraculous journey of edward tulane published,2006,"[""2006"", ""March 30, 2006""]",val
+nq_002037,total number of mna in pakistan national assembly,332 members,"[""332 members"", ""332""]",val
+nq_002038,who played nicky on the drew carey show,Kate Walsh,"[""Kate Walsh""]",val
+nq_002039,what is the form of mozart symphony no 40,G minor,"[""G minor"", ""minor key symphonies""]",val
+nq_002040,how many gallons of water in the gulf of mexico,660 quadrillion US gallons,"[""660 quadrillion US gallons""]",val
+nq_002041,where was the remake of dirty dancing filmed,High Hampton Inn in Cashiers,"[""High Hampton Inn in Cashiers"", ""Hendersonville, North Carolina"", ""western North Carolina""]",val
+nq_002042,when do new episodes of ncis los angeles return,"May 13, 2018","[""May 13, 2018"", ""October 1, 2017""]",val
+nq_002043,who plays the dad in girl meets world,Ben Savage,"[""Ben Savage"", ""Cory Matthews""]",val
+nq_002044,authorities involved in formulating accounting standard in india,government department,"[""government department"", ""FICCI"", ""other professional bodies"", ""ASSOCHAM"", ""CII"", ""Accounting Standards Board"", ""ICAI"", ""academicians""]",val
+nq_002045,what is a whistle blower suit under the false claims act,qui tam,"[""qui tam""]",val
+nq_002046,who represents the insured in the investigation of a claim,Public adjusters,"[""Public adjusters"", ""Claims adjuster""]",val
+nq_002047,who owns the majority of the us debt,China,"[""China"", ""Japan and China"", ""Japan"", ""the public""]",val
+nq_002048,who played the girl in my two dads,Staci Keanan,"[""Staci Keanan""]",val
+nq_002049,french film pioneer who introduced newsreel in 1910,Charles Pathé,"[""Charles Pathé""]",val
+nq_002050,how many episodes of the white princess will there be,eight,"[""eight"", ""8""]",val
+nq_002051,who said have you no sense of decency,Joseph Nye Welch,"[""Joseph Nye Welch""]",val
+nq_002052,which site of an enzyme is called allosteric site,regulatory site,"[""regulatory site""]",val
+nq_002053,where did they film the royal tv series,City of Bradford,"[""City of Bradford"", ""the North Riding of Yorkshire"", ""Scarborough"", ""Whitby""]",val
+nq_002054,real name of daya in taarak mehta ka ooltah chashmah,Disha Vakani,"[""Disha Vakani""]",val
+nq_002055,how much square feet is a basketball court,94 by 50 feet,"[""94 by 50 feet""]",val
+nq_002056,who won the american league pennant in 2017,Houston Astros,"[""Houston Astros"", ""the Houston Astros""]",val
+nq_002057,when does the world cup of hockey start,2020,"[""2020""]",val
+nq_002058,who is the minister of local government in zimbabwe,Hon July Moyo,"[""Hon July Moyo""]",val
+nq_002059,why does kerosene oil rise up in the wick of lantern,capillary action,"[""capillary action""]",val
+nq_002060,where in the bible are the 12 disciples,Acts 1:13,"[""Acts 1:13""]",val
+nq_002061,who played the judge in good will hunting,James P. Flynn,"[""James P. Flynn""]",val
+nq_002062,when did we decide to leave the eu,23 June 2016,"[""23 June 2016""]",val
+nq_002063,when did the log flume closed at alton towers,10 October 2015,"[""10 October 2015"", ""2015""]",val
+nq_002064,who is super bowl 2018 half time show,Justin Timberlake,"[""Justin Timberlake""]",val
+nq_002065,who came up with the first working periodic table,Dmitri Mendeleev,"[""Dmitri Mendeleev""]",val
+nq_002066,what album is help by the beatles on,Help!,"[""Help!""]",val
+nq_002067,where does kevins family go in home alone 2,Florida,"[""Florida""]",val
+nq_002068,how many nfl teams has st louis had,four,"[""four""]",val
+nq_002069,where are they playing the superbowl at this year,"Minneapolis, Minnesota","[""Minneapolis, Minnesota""]",val
+nq_002070,when did the angel of the north get built,1998,"[""1998"", ""1994""]",val
+nq_002071,who kills barry's mom in the flash,Professor Eobard Thawne,"[""Professor Eobard Thawne"", ""Thawne""]",val
+nq_002072,where do the florida marlins have spring training,Roger Dean Stadium,"[""Roger Dean Stadium""]",val
+nq_002073,what is the lead singers name of staind,Aaron Lewis,"[""Aaron Lewis""]",val
+nq_002074,when did the movie princess bride come out,"September 25, 1987","[""September 25, 1987"", ""1987"", ""September 25, 1987""]",val
+nq_002075,first who wants to be a millionaire winner uk,Judith Cynthia Aline Keppel,"[""Judith Cynthia Aline Keppel""]",val
+nq_002076,who plays heather in beauty and the beast,Nicole Gale Anderson,"[""Nicole Gale Anderson""]",val
+nq_002077,what percentage of sunlight is captured by plants to convert it into food energy,45%,"[""45%"", ""3 to 6%""]",val
+nq_002078,what is the first step in the evolution of the eye,photoreceptor proteins that sense light,"[""photoreceptor proteins that sense light"", ""eyespots""]",val
+nq_002079,when did brent barry won the dunk contest,1996,"[""1996""]",val
+nq_002080,when does wentworth season 6 start in australia,2019,"[""2019"", ""19 June 2018""]",val
+nq_002081,chris cornell she's going to change the world,Can't Change Me,"[""Can't Change Me""]",val
+nq_002082,who did us fight in world war 1,Germany,"[""Germany"", ""Austria-Hungary""]",val
+nq_002083,what year is the deer hunter set in,late 1967,"[""late 1967"", ""1967""]",val
+nq_002084,what is the source of information for account receivables,invoices,"[""invoices""]",val
+nq_002085,when was the last time the military drafted,1973,"[""1973"", ""1972"", ""December 1972""]",val
+nq_002086,when was the wheel introduced to north america,about 1500 BC,"[""about 1500 BC""]",val
+nq_002087,when does the new season on the 100 come out,"April 24, 2018","[""April 24, 2018""]",val
+nq_002088,who played the princess in kingsman secret service,Hanna Alström,"[""Hanna Alström""]",val
+nq_002089,when was the first epistle of john written,AD 95–110,"[""AD 95–110"", ""probably written in Ephesus""]",val
+nq_002090,first day collection of mission china assamese film,₹ 39.97 lakh,"[""₹ 39.97 lakh""]",val
+nq_002091,when does the second half of vikings season 5 air,2018,"[""2018"", ""in 2018""]",val
+nq_002092,name the process of fusion of an egg with a sperm,fertilization,"[""fertilization"", ""Human fertilization""]",val
+nq_002093,who played ben stone son on law and order,Michael Moriarty,"[""Michael Moriarty""]",val
+nq_002094,where are red blood cells made in adults,in the bone marrow,"[""in the bone marrow""]",val
+nq_002095,who plays the mother of howard on big bang theory,Carol Ann Susi,"[""Carol Ann Susi""]",val
+nq_002096,who was the first english child born in north america,Virginia Dare,"[""Virginia Dare""]",val
+nq_002097,how long has tom brady been playing professional football,18-season career,"[""18-season career""]",val
+nq_002098,phase change from gas to solid is called,Deposition,"[""Deposition"", ""desublimation""]",val
+nq_002099,wal-mart is a prime example of which type organization,multinational retail corporation,"[""multinational retail corporation""]",val
+nq_002100,who did virginia cavaliers lose to in basketball this year,Virginia Tech,"[""Virginia Tech"", ""West Virginia"", ""UMBC""]",val
+nq_002101,when did south sudan join east african community,April 2016,"[""April 2016"", ""2016""]",val
+nq_002102,how many seasons of the bastard executioner are there,one,"[""one"", ""one season""]",val
+nq_002103,what is the collection of the districts to the east of the jordan river,Jordan,"[""Jordan"", ""Golan Heights""]",val
+nq_002104,what is the definition of ph in water,potential of hydrogen,"[""potential of hydrogen""]",val
+nq_002105,who sings somebody's watching me with michael jackson,Jermaine Jackson,"[""Jermaine Jackson"", ""Rockwell""]",val
+nq_002106,how many times have the golden state warriors been to the playoffs,nine,"[""nine""]",val
+nq_002107,where did the name huey helicopter come from,originally designated HU-1,"[""originally designated HU-1""]",val
+nq_002108,when is the new tappan zee bridge going to be finished,"by June 15, 2018","[""by June 15, 2018"", ""June 15, 2018""]",val
+nq_002109,who expanded the territory of china during the qing dynasty,Qianlong,"[""Qianlong"", ""the Qianlong Emperor"", ""Prince Bao""]",val
+nq_002110,who wrote the song rainy days and mondays,Paul Williams,"[""Paul Williams"", ""Roger Nichols"", ""Roger Nichols and Paul Williams""]",val
+nq_002111,what was the name of atom bomb dropped by usa on hiroshima,Little Boy,"[""Little Boy""]",val
+nq_002112,when did the ncaa tournament became more important than the nit,By the mid-1980s,"[""By the mid-1980s""]",val
+nq_002113,when did the first episode of that 70s show air,"August 23, 1998","[""August 23, 1998"", ""August 23, 1998""]",val
+nq_002114,who wrote the song what child is this,William Chatterton Dix,"[""William Chatterton Dix""]",val
+nq_002115,who sang from russia with love james bond,Matt Monro,"[""Matt Monro""]",val
+nq_002116,star cast of ab tumhare hawale watan sathiyon,Bobby Deol,"[""Bobby Deol"", ""Akshay Kumar"", ""Divya Khosla Kumar"", ""Nagma"", ""Amitabh Bachchan"", ""Sandali Sinha""]",val
+nq_002117,where can you find dna in the body,chromosomes in a cell,"[""chromosomes in a cell"", ""inside the cell nucleus""]",val
+nq_002118,which is produced in plants of narora kakrapar tarapur,Atomic Power,"[""Atomic Power""]",val
+nq_002119,criminal minds what episode does jj find out she pregnant,in April 2011,"[""in April 2011"", ""The Crossing""]",val
+nq_002120,when was the titanic started to be built,31 March 1909,"[""31 March 1909""]",val
+nq_002121,when did season 4 of glee come out,"September 13, 2012","[""September 13, 2012""]",val
+nq_002122,how many ammendments to the constitution have there been,Twenty-seven,"[""Twenty-seven"", ""Thirty-three""]",val
+nq_002123,who played ricky in secret life of the american teenager,Daren Maxwell Kagasoff,"[""Daren Maxwell Kagasoff""]",val
+nq_002124,who won the election for mayor in boston,Marty J. Walsh,"[""Marty J. Walsh"", ""Marty Walsh""]",val
+nq_002125,who wrote the phantom of the opera music,Andrew Lloyd Webber,"[""Andrew Lloyd Webber""]",val
+nq_002126,who won season 2 of great british baking show,Joanne Wheatley,"[""Joanne Wheatley""]",val
+nq_002127,when was beowulf most likely composed when did it's events probably take place,in the 7th century,"[""in the 7th century"", ""700–1000 AD""]",val
+nq_002128,when did the united states became a nation,1776,"[""1776"", ""July 4, 1776"", ""In 1776""]",val
+nq_002129,the duluth model is an intervention program that emphasizes,re-education,"[""re-education""]",val
+nq_002130,a political leader during the roman empire was called,emperors,"[""emperors""]",val
+nq_002131,how are leaders of the two parties in congress chosen,Senate Republican Conference,"[""Senate Republican Conference"", ""Senate Democratic Caucus""]",val
+nq_002132,who did the original spirit in the sky,Norman Greenbaum,"[""Norman Greenbaum""]",val
+nq_002133,where is fight or flight in the brain,the adrenal medulla,"[""the adrenal medulla""]",val
+nq_002134,who has the most wins on around the horn,Woody Paige,"[""Woody Paige""]",val
+nq_002135,the gulf stream the world's fastest ocean current flows along the western side of this water body,Atlantic ocean,"[""Atlantic ocean""]",val
+nq_002136,when did the nfl start playing in london,since 2007,"[""since 2007"", ""October 28, 2007"", ""2007""]",val
+nq_002137,what was the population of the roman empire at its height,50 to 90 million inhabitants,"[""50 to 90 million inhabitants"", ""70 million"", ""55–60 million"", ""an estimated 70 million people""]",val
+nq_002138,when was the $1 000 bill discontinued,1969,"[""1969"", ""December 27, 1945"", ""July 14, 1969""]",val
+nq_002139,last world series that didn't go 7 games,2015,"[""2015""]",val
+nq_002140,what year did return of the mack come out,18 March 1996,"[""18 March 1996"", ""March 1996"", ""1996""]",val
+nq_002141,when do you celebrate birthday if born on feb 29,February 29,"[""February 29"", ""February 28"", ""March 1""]",val
+nq_002142,what is the most famous building in rennes,Parlement de Bretagne,"[""Parlement de Bretagne"", ""The Parlement de Bretagne""]",val
+nq_002143,who was the captain of the mayflower when it took the pilgrims to the new world,Captain Jones,"[""Captain Jones"", ""Master Christopher Jones"", ""Christopher Jones""]",val
+nq_002144,what are the zords in the power rangers movie,animal-themed Ninja Zords,"[""animal-themed Ninja Zords""]",val
+nq_002145,where does prime rib come from on a cow,the primal rib,"[""the primal rib""]",val
+nq_002146,who played mrs. trumbull on i love lucy,Mary Elizabeth Patterson,"[""Mary Elizabeth Patterson""]",val
+nq_002147,where do the royalties for winnie the pooh go,the Slesinger family,"[""the Slesinger family"", ""Slesinger, Inc.""]",val
+nq_002148,explorer who led an early voyage to the coast of newfoundland,Jacques Cartier,"[""Jacques Cartier""]",val
+nq_002149,where does the spinal cord become cauda equina,L1 or L2,"[""L1 or L2"", ""the conus medullaris""]",val
+nq_002150,the heart muscle is stimulated to contract by electrical impulses which are generated where,the sinoatrial node,"[""the sinoatrial node""]",val
+nq_002151,when did lynyrd skynyrd's plane crash happen,"October 20, 1977","[""October 20, 1977""]",val
+nq_002152,what started the war between us and japan,attack on Pearl Harbor,"[""attack on Pearl Harbor""]",val
+nq_002153,when did world war 2 officially start and end,1939,"[""1939"", ""1945"", ""2 September 1945"", ""1 September 1939""]",val
+nq_002154,who used to present i'm a celebrity now,Ant & Dec,"[""Ant & Dec""]",val
+nq_002155,when is the second half of vikings season 5 coming out,2018,"[""2018""]",val
+nq_002156,how did long john silver lose his leg in treasure island,in the Royal Navy,"[""in the Royal Navy""]",val
+nq_002157,what is on top of us capitol building,The Statue of Freedom,"[""The Statue of Freedom""]",val
+nq_002158,who did america declare war on in ww1,Austria-Hungary,"[""Austria-Hungary""]",val
+nq_002159,who owns the golden nugget casino in atlantic city,"Landry's, Inc.","[""Landry's, Inc.""]",val
+nq_002160,when did the first junie b jones book come out,1992,"[""1992""]",val
+nq_002161,what kind of book is where's waldo,puzzle,"[""puzzle""]",val
+nq_002162,when does middle-earth shadow of mordor come out,September 2014,"[""September 2014""]",val
+nq_002163,when will notre dame played michigan state again,2026,"[""2026""]",val
+nq_002164,what land mass was north america a part of about 300 million years ago,Pangaea,"[""Pangaea"", ""Pangaea or Pangea""]",val
+nq_002165,who sang if this world were mine with luther vandross,Tammi Terrell,"[""Tammi Terrell"", ""Cheryl Lynn""]",val
+nq_002166,who is the quarterback for the green bay packers,Aaron Rodgers,"[""Aaron Rodgers""]",val
+nq_002167,the nurses' health study is an example of what type of study,long-term,"[""long-term"", ""prospective"", ""prospective studies""]",val
+nq_002168,where is the villa in call me by your name,Moscazzano,"[""Moscazzano""]",val
+nq_002169,who sings love will keep us alive by the eagles,Timothy B. Schmit,"[""Timothy B. Schmit""]",val
+nq_002170,when did first fast and furious come out,2001,"[""2001""]",val
+nq_002171,who plays the grandmother in game of thrones,Rigg,"[""Rigg""]",val
+nq_002172,when did movies start coming out in color,introduced around 1940,"[""introduced around 1940"", ""1895""]",val
+nq_002173,when did dragon ball z air in australia,Fall 1998,"[""Fall 1998""]",val
+nq_002174,who were the two mathematicians that invented calculus,Gottfried Leibniz,"[""Gottfried Leibniz"", ""Isaac Newton""]",val
+nq_002175,when did cristiano ronaldo go to manchester united,2003,"[""2003"", ""at age 18 in 2003""]",val
+nq_002176,where does the last name tavarez come from,Spanish,"[""Spanish""]",val
+nq_002177,the complete collection of dna and genes is called,genome,"[""genome"", ""chromosome""]",val
+nq_002178,surface area in many kinds of organs is important because the amount of surface determines,effective gas exchange,"[""effective gas exchange""]",val
+nq_002179,who created separation of powers and checks and balances,Montesquieu in the Enlightenment,"[""Montesquieu in the Enlightenment""]",val
+nq_002180,a town in west yorkshire on the river aire home to a rugby league team,Castleford,"[""Castleford""]",val
+nq_002181,where does stevia in the raw come from,South America,"[""South America"", ""the plant species Stevia rebaudiana""]",val
+nq_002182,who holds the most home runs in mlb history,Barry Bonds,"[""Barry Bonds""]",val
+nq_002183,what type of bridge is the charles bridge,a bow bridge,"[""a bow bridge"", ""bow bridge"", ""Stone""]",val
+nq_002184,the victim was asking for it is an example of a,Victim blaming,"[""Victim blaming""]",val
+nq_002185,when did god save the queen became the national anthem,in the 1780s and 1790s,"[""in the 1780s and 1790s"", ""After the Battle of Culloden""]",val
+nq_002186,who made the first spanish landing on the mainland of north america,1535,"[""1535"", ""Christopher Columbus""]",val
+nq_002187,who plays dusty in the movie pure country,George Strait,"[""George Strait""]",val
+nq_002188,where did the rulers of the qing dynasty originate,Manchuria,"[""Manchuria""]",val
+nq_002189,who formed the indian society of oriental art,Abanindranath Tagore CIE,"[""Abanindranath Tagore CIE"", ""Abanindranath Tagore""]",val
+nq_002190,where was the movie i am number 4 filmed,the Pittsburgh metropolitan area,"[""the Pittsburgh metropolitan area""]",val
+nq_002191,who plays the evil doctor in wonder woman,Elena Anaya,"[""Elena Anaya"", ""Spanish actress Elena Anaya""]",val
+nq_002192,where does the eurostar train arrives in london,St Pancras International,"[""St Pancras International""]",val
+nq_002193,who won the american league east in 2017,The Yankees,"[""The Yankees"", ""Houston Astros""]",val
+nq_002194,what was the name of the horse in steptoe and son,Hercules,"[""Hercules""]",val
+nq_002195,krypton-85 decays by emission of a beta particle. the product of this decay is,rubidium-85,"[""rubidium-85""]",val
+nq_002196,when did gimme gimme gimme start,8 January 1999,"[""8 January 1999"", ""1999""]",val
+nq_002197,who is directly elected according to the constitution,senators,"[""senators""]",val
+nq_002198,where is the lost dutchman's mine supposed to be located,in the southwestern United States,"[""in the southwestern United States""]",val
+nq_002199,who discovered the atom and in what year,early 1800s,"[""early 1800s"", ""John Dalton""]",val
+nq_002200,who votes in the baseball hall of fame,or the Veterans Committee,"[""or the Veterans Committee"", ""Veterans Committee""]",val
+nq_002201,who wrote were going on a bear hunt,Michael Rosen,"[""Michael Rosen""]",val
+nq_002202,where did immigrants enter the us on the west coast,Angel Island Immigration Station,"[""Angel Island Immigration Station"", ""San Francisco Bay""]",val
+nq_002203,who wrote the country song i can only imagine,Bart Millard,"[""Bart Millard""]",val
+nq_002204,who makes the decisions about what to produce in a market economy,capital and financial markets,"[""capital and financial markets""]",val
+nq_002205,who will take the throne after the queen dies,"Charles, Prince of Wales","[""Charles, Prince of Wales""]",val
+nq_002206,where does the cell spend most of its time in the cell cycle,Interphase,"[""Interphase""]",val
+nq_002207,who is the lead singer of collective soul,Ed Roland,"[""Ed Roland""]",val
+nq_002208,who wrote the theme song to law and order,Mike Post,"[""Mike Post""]",val
+nq_002209,who became a leader of the indian national congress,Mahatma Gandhi,"[""Mahatma Gandhi""]",val
+nq_002210,royal society for the protection of birds number of members,more than a million,"[""more than a million""]",val
+nq_002211,who plays david in alvin and the chipmunks,Jason Lee,"[""Jason Lee""]",val
+nq_002212,where is the suez canal located on a map,Egypt,"[""Egypt""]",val
+nq_002213,i like the way you move video cast,Big Boi,"[""Big Boi"", ""Sleepy Brown"", ""Fonzworth Bentley"", ""actress Ki Toy Johnson"", ""Ki Toy Johnson""]",val
+nq_002214,when was the first nuclear power plant opened,"December 20, 1951","[""December 20, 1951"", ""June 27, 1954"", ""On June 27, 1954"", ""the USSR"", ""December 2, 1942""]",val
+nq_002215,who won the battle of saratoga in 1777,Americans,"[""Americans"", ""the Americans""]",val
+nq_002216,who has won the most masters green jackets,Jack Nicklaus,"[""Jack Nicklaus""]",val
+nq_002217,who were the first settlers in san antonio,Spanish,"[""Spanish"", ""Spanish explorers"", ""varying cultures of indigenous peoples""]",val
+nq_002218,who wrote the song going to kansas city,Jerry Leiber and Mike Stoller,"[""Jerry Leiber and Mike Stoller"", ""Jerry Leiber"", ""Mike Stoller""]",val
+nq_002219,what was the most important new religious figure of the new kingdom of ancient egypt,Aten,"[""Aten""]",val
+nq_002220,when did the the regulatory reform (fire safety) order 2005 first come into effect,1 October 2006,"[""1 October 2006""]",val
+nq_002221,who was the winner of the first indianapolis 500,Ray Harroun,"[""Ray Harroun""]",val
+nq_002222,how many walker texas ranger seasons are there,Eight,"[""Eight"", ""8""]",val
+nq_002223,who sings god gave rock and roll to you,the British band Argent,"[""the British band Argent"", ""Petra"", ""Kiss""]",val
+nq_002224,who is the guy who walked across the twin towers,Philippe Petit,"[""Philippe Petit""]",val
+nq_002225,who sings in everybody dies in their nightmares,XXXTentacion,"[""XXXTentacion""]",val
+nq_002226,where is the new stadium being built in las vegas,"Paradise, Nevada","[""Paradise, Nevada"", ""in Paradise, Nevada""]",val
+nq_002227,when did the astros change from the national league to the american league,2013,"[""2013"", ""March 31, 2013""]",val
+nq_002228,where is gall bladder situated in human body,beneath the liver,"[""beneath the liver""]",val
+nq_002229,what emperor took over france after the reign of terror,Napoleon,"[""Napoleon"", ""Napoleon Bonaparte""]",val
+nq_002230,when was the first book made into a movie,1924,"[""1924""]",val
+nq_002231,when was the movie the king and i made,1956,"[""1956""]",val
+nq_002232,location of the ten commandments in the bible,Exodus,"[""Exodus"", ""Deuteronomy""]",val
+nq_002233,who was the youngest president to be elected,Theodore Roosevelt,"[""Theodore Roosevelt"", ""John F. Kennedy""]",val
+nq_002234,when did the golden state warriors win the finals,1947,"[""1947"", ""1975"", ""1956"", ""2015"", ""2017""]",val
+nq_002235,what is the largest ethnic group in mexico today,K'iche',"[""K'iche'""]",val
+nq_002236,what is the meaning of the dragon boat festival,commemorating fealty and filial piety,"[""commemorating fealty and filial piety""]",val
+nq_002237,who won the most medals at the 2014 winter olympics,Russia (,"[""Russia ("", ""Russia""]",val
+nq_002238,how many episodes of greys anatomy season 14,24,"[""24"", ""24 episodes"", ""21""]",val
+nq_002239,when did the passion of the christ come out,"February 25, 2004","[""February 25, 2004"", ""February 25, 2004"", ""2004""]",val
+nq_002240,where can the mona lisa be found today,"Musée du Louvre, Paris","[""Musée du Louvre, Paris"", ""Louvre Museum in Paris""]",val
+nq_002241,in florida it is illegal to sell alcohol before 1 pm on any sunday. this is an example of,Blue laws,"[""Blue laws""]",val
+nq_002242,who discovered that neural communication between cells occurs through chemicals,Charles Sherrington,"[""Charles Sherrington""]",val
+nq_002243,when was the land rover defender first built,1991,"[""1991"", ""1983"", ""in the 1980s""]",val
+nq_002244,where is the hero golf challenge being played,The Bahamas,"[""The Bahamas"", ""Albany development in the Bahamas""]",val
+nq_002245,who added a press room to the white house,Richard Nixon,"[""Richard Nixon"", ""President Richard Nixon""]",val
+nq_002246,when is the new season of chicago pd,"September 27, 2017","[""September 27, 2017""]",val
+nq_002247,who came up with the term baby boomer,The Washington Post,"[""The Washington Post""]",val
+nq_002248,what is the salary of us secretary of state,"$205,700","[""$205,700"", ""$205,700 annually""]",val
+nq_002249,who represented the state of tennessee in the scopes trial,William Jennings Bryan,"[""William Jennings Bryan""]",val
+nq_002250,what type of artwork was created in the safavid empire,architecture,"[""architecture"", ""metal"", ""ceramics"", ""gardens"", ""book"", ""glass""]",val
+nq_002251,when did australia 2 win the america's cup,1983,"[""1983""]",val
+nq_002252,how many steps does the cn tower have,"2,579 steps","[""2,579 steps"", ""2,579""]",val
+nq_002253,who wrote from now on from the greatest showman,Joseph Trapanese,"[""Joseph Trapanese"", ""John Debney"", ""Benj Pasek and Justin Paul""]",val
+nq_002254,who in germany signed the treaty of versailles,Gustav Bauer,"[""Gustav Bauer"", ""colonial minister Johannes Bell"", ""Foreign minister Hermann Müller""]",val
+nq_002255,name of the boundary line between india and bangladesh,International Border (IB),"[""International Border (IB)""]",val

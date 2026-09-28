@@ -1,32 +1,21 @@
-# Virtual Environment
 venv/
-env/
-ENV/
-
-# Python Cache & Bytecode
 __pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
+*.pyc
 
-# Datasets & Heavy Data Folders
-halueval_data/
-nq_data/
-*.json
-*.jsonl
-*.csv
+raw_traces/
+processed_features/
+graphs/
+models/
+generations/
 
-# Extracted Traces Directories
-movie_traces_train*/
-
-# Model Weights & Saved Checkpoints
 *.pt
-*.pth
-*.bin
-*.safetensors
+*.joblib
 
-# macOS & Editor Files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
 .DS_Store
-.vscode/
-.idea/
-*.swp
+Thumbs.db

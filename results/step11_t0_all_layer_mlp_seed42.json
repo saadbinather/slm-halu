@@ -1,0 +1,125 @@
+{
+  "experiment": "t0_all_layer_mlp",
+  "description": "Fair graph-free baseline using t=0 only, all 28 transformer layers, PCA-16 per layer.",
+  "seed": 42,
+  "input_dim": 448,
+  "trainable_parameters": 131457,
+  "best_val_auroc": 0.7623035179640718,
+  "validation": {
+    "threshold": 0.62,
+    "auroc": 0.7623035179640718,
+    "auprc_hallucinated": 0.947549774169545,
+    "auprc_correct": 0.3533579052246425,
+    "macro_f1": 0.5756318261721565,
+    "balanced_accuracy": 0.7216036676646707,
+    "accuracy": 0.628140703517588
+  },
+  "test": {
+    "threshold": 0.62,
+    "auroc": 0.7945470678389933,
+    "auprc_hallucinated": 0.9392826036874997,
+    "auprc_correct": 0.4848070998830298,
+    "macro_f1": 0.5879142300194932,
+    "balanced_accuracy": 0.7161208356860531,
+    "accuracy": 0.6215538847117794
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.22612864720215067,
+      "val_auroc": 0.7604790419161678
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.20176071023209616,
+      "val_auroc": 0.7536489520958085
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.19465930808427773,
+      "val_auroc": 0.7514034431137723
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.18971869612535697,
+      "val_auroc": 0.7623035179640718
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.18104296871355713,
+      "val_auroc": 0.756689745508982
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.17503880087859663,
+      "val_auroc": 0.7530875748502994
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.1668358903590778,
+      "val_auroc": 0.7553798652694611
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.1595912751921155,
+      "val_auroc": 0.7579528443113773
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.14645170106913943,
+      "val_auroc": 0.7586077844311379
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.14034685863490717,
+      "val_auroc": 0.7534150449101796
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.12192141521091505,
+      "val_auroc": 0.7617421407185628
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.1268528438583257,
+      "val_auroc": 0.7523858532934132
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.11259059562870131,
+      "val_auroc": 0.7612743263473054
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.10186293297743002,
+      "val_auroc": 0.758186751497006
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.10095837850432414,
+      "val_auroc": 0.7335329341317365
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.09265260861141945,
+      "val_auroc": 0.7434505988023952
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.09065468288533013,
+      "val_auroc": 0.7403162425149701
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.08525017062673271,
+      "val_auroc": 0.7534618263473054
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.10773249809400642,
+      "val_auroc": 0.748877245508982
+    }
+  ],
+  "checkpoint": "models\\t0_all_layer_mlp_seed42.pt",
+  "scaler": "models\\t0_all_layer_mlp_scaler_seed42.joblib"
+}

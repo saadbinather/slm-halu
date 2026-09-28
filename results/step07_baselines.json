@@ -1,0 +1,61 @@
+{
+  "seed": 42,
+  "label_definition": {
+    "0": "correct",
+    "1": "hallucinated"
+  },
+  "single_state_logistic_regression": {
+    "name": "single_state_logistic_regression",
+    "input": "t=0, final transformer layer, PCA-16",
+    "validation": {
+      "threshold": 0.5449999999999999,
+      "auroc": 0.7473334580838322,
+      "auprc_hallucinated": 0.9409621955552175,
+      "auprc_correct": 0.3445130000937774,
+      "macro_f1": 0.5661514694310692,
+      "balanced_accuracy": 0.7044816616766467,
+      "accuracy": 0.6206030150753769
+    },
+    "test": {
+      "threshold": 0.5449999999999999,
+      "auroc": 0.7890215374687425,
+      "auprc_hallucinated": 0.9381326089518867,
+      "auprc_correct": 0.4744121647722437,
+      "macro_f1": 0.6109022556390977,
+      "balanced_accuracy": 0.721485036702428,
+      "accuracy": 0.6541353383458647
+    },
+    "model_path": "models\\baseline_single_state_logreg.joblib"
+  },
+  "flattened_trajectory_mlp": {
+    "name": "flattened_trajectory_mlp",
+    "canonical_times": [
+      0,
+      1,
+      2,
+      4,
+      8
+    ],
+    "input_dim": 2245,
+    "validation": {
+      "threshold": 0.49999999999999994,
+      "auroc": 0.7652975299401198,
+      "auprc_hallucinated": 0.9419811908180812,
+      "auprc_correct": 0.37428953716104324,
+      "macro_f1": 0.6397893697548133,
+      "balanced_accuracy": 0.7342814371257484,
+      "accuracy": 0.7236180904522613
+    },
+    "test": {
+      "threshold": 0.49999999999999994,
+      "auroc": 0.7711946438654513,
+      "auprc_hallucinated": 0.9257820933598493,
+      "auprc_correct": 0.4744825354848371,
+      "macro_f1": 0.6462325783972125,
+      "balanced_accuracy": 0.7142857142857143,
+      "accuracy": 0.7142857142857143
+    },
+    "model_path": "models\\baseline_flat_trajectory_mlp.pt",
+    "scaler_path": "models\\baseline_flat_trajectory_scaler.joblib"
+  }
+}
