@@ -1,21 +1,57 @@
+# Local Python environments and caches
 venv/
+.venv/
+env/
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
+# Downloaded and prepared datasets
+nq_data/
+triviaqa_data/
+hotpotqa_data/
 raw_traces/
-processed_features/
-graphs/
-models/
 generations/
 
+# Derived features, graphs, checkpoints, and trained models
+processed_features/
+processed_graphs/
+graphs/
+models/
+checkpoints/
+runs/
 *.pt
+*.pth
+*.ckpt
 *.joblib
+*.safetensors
+*.npy
+*.npz
 
-*.aux
+# Experiment outputs and local paper artifacts
+results/
+paper/
+paper_details/
+logs/
+wandb/
+lightning_logs/
 *.log
 *.out
+*.aux
 *.toc
 *.synctex.gz
 
+# Local documentation and data exports
+*.md
+*.csv
+*.jsonl
+*.parquet
+*.arrow
+
+# Local settings and OS files
+.env
+.env.*
 .DS_Store
 Thumbs.db
